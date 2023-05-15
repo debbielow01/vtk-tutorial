@@ -1,0 +1,10 @@
+^C:\USERS\DEBBI\ONEDRIVE\DOCUMENTS\VTK-PROJECT\TUTORIAL1\CONE\BUILD\CMAKEFILES\AEC8B6B72F3CB2F725DE8CA5331432AE\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe -SC:/Users/debbi/OneDrive/Documents/VTK-Project/Tutorial1/Cone -BC:/Users/debbi/OneDrive/Documents/VTK-Project/Tutorial1/Cone/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/debbi/OneDrive/Documents/VTK-Project/Tutorial1/Cone/build/Cone.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
