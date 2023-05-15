@@ -1,0 +1,3 @@
+C:/Users/debbi/OneDrive/Documents/VTK-Project/Tutorial1/Medical/MedicalDemo3/build/CMakeFiles/MedicalDemo3.dir
+C:/Users/debbi/OneDrive/Documents/VTK-Project/Tutorial1/Medical/MedicalDemo3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/debbi/OneDrive/Documents/VTK-Project/Tutorial1/Medical/MedicalDemo3/build/CMakeFiles/ZERO_CHECK.dir
